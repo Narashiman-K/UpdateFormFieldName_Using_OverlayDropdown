@@ -38,6 +38,10 @@ To create a production build of the app and serve it:
 
 Open your browser and navigate to [http://localhost:4173](http://localhost:4173) to see the application in action.
 
+
+https://github.com/user-attachments/assets/4c04585e-ea1c-4532-bdc3-fe78c9fe539a
+
+
 ## License
 
 This project is licensed under the BSD license. See the LICENSE file for more details.
